@@ -18,6 +18,12 @@
   <li>
     Example game included, plinko, fully working 
   </li>
+  <li>
+    Balance reload system with timer
+  </li>
+  <li>
+    Database scheme defined in userscehema.js
+  </li>
 
 <img src="https://github.com/NMan1/gambit-casino/blob/main/ss1.jpg" alt="alt text" width="250">
 <img src="https://github.com/NMan1/gambit-casino/blob/main/ss2.jpg" alt="alt text" width="250">
