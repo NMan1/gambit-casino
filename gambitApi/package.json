@@ -1,0 +1,22 @@
+{
+  "name": "gambitapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_OPTIONS='--experimental-specifier-resolution=node' node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "express": "^4.21.1",
+    "jose": "^5.9.6",
+    "mongodb": "^6.10.0",
+    "request": "^2.88.2",
+    "uuid": "^11.0.3"
+  },
+  "type": "module"
+}
